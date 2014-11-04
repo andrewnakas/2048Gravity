@@ -8,7 +8,11 @@ mobile's acclerameter to control gravity and slide the tiles.
 Some things that i want to add to this game. 
 
 Add social game center elements to ios
+
+
 Object pooling
+
+
 Fix odd number of tiles instantiating the bigger peice in the odd tiles spot.
 
 
