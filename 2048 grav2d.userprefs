@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../rollercoaster/Assets/audio.js">
+    <Files>
+      <File FileName="../rollercoaster/Assets/audio.js" Line="13" Column="14" />
+      <File FileName="../rollercoaster/Assets/SplineInterpolator.cs" Line="182" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
